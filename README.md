@@ -1,4 +1,4 @@
-# Image-Classification-Using-Deep-Learning
+# Multi_label-Image-Classification-Using-DeepLearning
 Multi-label Image Classification using Automated Approach.
 
 # Dataset
